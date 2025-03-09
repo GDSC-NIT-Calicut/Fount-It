@@ -14,10 +14,10 @@
 
 
 ## ✨ Features
-- [ ]  < Feature 1 >
-- [ ]  < Feature 2 >
-- [ ]  < Feature 3 >
-- [ ]  < Feature 4 >
+- [ ]  Google based Login for NITC email account
+- [ ]  Reporting feature for Found Objects
+- [ ]  Location based reporting for objects
+- [ ]  Notifications 
 
 ## 💻 Tech Stack 
 
